@@ -54,13 +54,13 @@ const About = () => {
 				variants={fadeIn("", "", 0.1, 1)}
 				className="mt-4 text-secondary text-[17px] max-w-[3xl] leading-[30px]"
 			>Développeur web dynamique, passionné par la création
-			 d'applications web innovantes.
+			 d applications web innovantes.
 Expertise confirmée en Lavaral, Next.js, Node.js et Python.
 Maîtrise de la conception UI/UX et du DevOps (Docker). 
 Capacité avérée à fournir des solutions évolutives et de haute qualité,
 comme en témoigne un solide portfolio de projets web Next.js et de conceptions UI/UX modernes.
  Désireux de mettre à profit mes compétences techniques et mon esprit de résolution de problèmes
-  pour contribuer à des projets de pointe et stimuler l'innovation.
+  pour contribuer à des projets de pointe et stimuler linnovation.
 				
 			</motion.p>
 			<div className="mt-20 flex flex-wrap gap-10">

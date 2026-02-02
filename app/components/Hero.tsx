@@ -16,7 +16,7 @@ const Hero = () => {
                         Salut, Je suis <span className="text-[#3b82f6] ">Desire</span>
                     </h1>
                     <p className="heroSubText">
-                        Développeur d'Applications Web <br className="sm:block hidden" />
+                        Développeur d Applications Web <br className="sm:block hidden" />
                         spécialisé en Next.js et Laravel.
                     </p>
                 </div>
