@@ -117,7 +117,7 @@ const Works = () => {
 				 Les projets suivants mettent en valeur mes compétences et mon expérience à travers,
 des exemples concrets de mon travail. Chaque projet est brièvement décrit avec,
 des liens vers les dépôts de code et des démos en direct. Cela reflète ma,
-capacité à résoudre des problèmes complexes, à travailler avec différentes technologies,",
+capacité à résoudre des problèmes complexes, à travailler avec différentes technologies,
 et à gérer des projets de manière efficace.
 				</motion.p>
 			</div>
